@@ -4,11 +4,7 @@
 <h3 align="center" style="color:#FFD700;">💡 Got an Amazing Idea? Tell me!</h3>
 
 <!-- Profile views and social badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thusharanavod123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/thusharanavod123?label=Followers&style=social&color=FFD700" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/thusharanavod123?label=GitHub%20Stars&style=social&color=FFD700" alt="GitHub Stars">
-</p>
+
 
 ---
 
