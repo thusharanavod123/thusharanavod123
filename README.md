@@ -35,29 +35,7 @@
 <!-- Languages and Tools Section -->
 
 <!-- GitHub Stats Section -->
-<h3 align="center" style="color:#FFD700;">📊 My GitHub Stats</h3>
 
-<p align="center">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharanavod123&layout=compact&theme=tokyonight&title_color=00FF00&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thusharanavod123&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thusharanavod123&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
----
-
-
-
-
- 
   
 
 
