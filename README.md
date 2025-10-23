@@ -14,19 +14,7 @@
 ---
 
 <!-- Adding animation to the right side of personal content -->
-<div align="left" style="display: flex; justify-content: space-between;">
-  <div style="color: #FFFFFF;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Hey, This is me...***
 
-    <ul>
-      <li>🔭 <strong>Currently working on:</strong> Skygea (PVT) </li>
-      <li>🌱 <strong>Currently learning:</strong> Api | DevOps and Cloud</li>
-      <li>🤝 <strong>Looking for help with:</strong>SAAS Developers</li>
-      <li>💬 <strong>Ask me about:</strong>Cluod and DevOps</li>
-      <li>📫 <strong>Reach me at:</strong> padiwelathusharanavod@gmail.com</li>
-      <li>⚡ <strong>Fun fact:</strong> I think I’m Iron Man 🤖</li>
-    </ul>
-  </div>
 
  
 
